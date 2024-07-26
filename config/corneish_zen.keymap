@@ -58,10 +58,10 @@
             // | SHFT |     |     |     |     |     |   |     |     |     |     |     |      |
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 bindings = <
-&trans  &kp N1           &kp N2           &kp N3     &kp N4    &kp N5       &kp N6    &kp N7    &kp N8  &kp N9     &kp N0    &kp BSPC
-&trans  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &kp ASTRK  &kp PLUS  &kp EQUAL    &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp HOME  &kp PG_UP
-&trans  &rgb_ug RGB_TOG  &none            &none     &kp MINUS  &kp DOT      &kp DEL   &INS      &none   &none      &kp END   &kp PG_DN
-                                          &trans    &trans     &trans       &trans    &trans    &trans
+&trans  &kp N1           &kp N2           &kp N3     &kp N4     &kp N5       &kp N6    &kp N7    &kp N8  &kp N9     &kp N0    &kp BSPC
+&trans  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &kp ASTRK  &kp PLUS   &kp EQUAL    &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp HOME  &kp PG_UP
+&trans  &rgb_ug RGB_TOG  &none            &none      &kp MINUS  &kp DOT      &kp DEL   &kp INS   &none   &none      &kp END   &kp PG_DN
+                                          &trans     &trans     &trans       &trans    &trans    &trans
             >;
         };
 

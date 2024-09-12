@@ -45,8 +45,8 @@
             display-name = "NUMBER";
 bindings = <
 &trans  &kp N1  &kp N2  &kp N3           &kp N4       &kp N5          &kp N6    &kp N7    &kp N8  &kp N9     &kp N0    &kp BSPC
-&trans  &none   &none   &kp KP_MULTIPLY  &kp KP_PLUS  &kp KP_EQUAL    &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp HOME  &kp PG_UP
-&trans  &none   &none   &kp KP_DIVIDE    &kp KP_MINUS &kp KP_DOT      &kp DEL   &kp INS   &none   &kp DOT    &kp END   &kp PG_DN
+&trans  &none   &none   &kp KP_MULTIPLY  &kp KP_PLUS  &kp EQUAL    &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp HOME  &kp PG_UP
+&trans  &none   &none   &kp KP_DIVIDE    &kp KP_MINUS &kp DOT      &kp DEL   &kp INS   &none   &kp DOT    &kp END   &kp PG_DN
                         &trans           &trans       &trans          &trans    &trans    &trans
             >;
         };

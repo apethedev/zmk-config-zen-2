@@ -65,8 +65,8 @@ bindings = <
             display-name = "SYMBOL";
             bindings = <
 &trans  &none  &none      &none    &kp LPAR  &kp RPAR     &none      &kp EXCL   &kp AT     &kp HASH  &none  &trans
-&trans  &none  &kp GRAVE  &kp SQT  &kp LBKT  &kp RBKT     &kp MINUS  &kp CARET  &kp PRCNT  &kp DLLR  &kp BSLH  &trans
-&trans  &none  &kp TILDE  &kp DQT  &kp LBRC  &kp RBRC     &kp UNDER  &kp AMPS   &none      &none     &kp PIPE  &none
+&trans  &none  &kp GRAVE  &kp SQT  &kp LBKT  &kp RBKT     &kp MINUS  &kp CARET  &kp PRCNT  &kp DLLR  &kp PIPE  &trans
+&trans  &none  &kp TILDE  &kp DQT  &kp LBRC  &kp RBRC     &kp UNDER  &kp AMPS   &none      &none     &kp BSLH  &none
                             &trans  &trans  &kp SPACE     &kp RET    &trans     &trans
             >;
         };
